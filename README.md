@@ -6,8 +6,8 @@ http://nvie.com/posts/a-successful-git-branching-model/
 
 ## Primary branches
 There are two primary branches
-    - ```prod```
-    - ```dev```
+ * ```prod```
+ * ```dev```
 
 These respective branches desribe exactly what they are. ```prod``` is the most
 stable version of the library or applications where ```dev``` is your latest,
@@ -15,8 +15,8 @@ greatest, bleeding-edge code that exists.
 
 ## Secondary branches
 There may be many secondary branches which consist of two types:
-    * Feature branches
-    * Hotfix branches
+ * Feature branches
+ * Hotfix branches
 
 These branches will be prefixed ```f/some-feature-name``` and
 ```h/some-hotfix-name```. Features are intended to be changes in the application
