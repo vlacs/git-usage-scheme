@@ -6,8 +6,8 @@ http://nvie.com/posts/a-successful-git-branching-model/
 
 ## Primary branches
 There are two primary branches
-    * ```prod```
-    * ```dev```
+    - ```prod```
+    - ```dev```
 
 These respective branches desribe exactly what they are. ```prod``` is the most
 stable version of the library or applications where ```dev``` is your latest,
