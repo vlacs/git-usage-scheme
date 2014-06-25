@@ -26,7 +26,10 @@ something.
 
 ## What branches should merge into others?
 ```prod``` should merge into ```dev``` or ```hotfix``` branches.
+
 ```dev``` should merge into ```feature```, ```hotfix```, or ```prod``` branches.
+
 ```hotfix``` branches should merge into ```dev``` or ```prod```.
+
 ```feature``` branches should merge only merge into ```dev```.
 
